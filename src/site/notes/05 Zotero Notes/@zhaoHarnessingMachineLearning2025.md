@@ -20,3 +20,5 @@
 总体来说，有两类评测指标：
 1. Energy and force MAE：最直观的评估标准
 2. **success and intended rates**：即上提到的GSM正确率和TS正确率；**TS RMSD**；**能垒MAE**：在端对端TS搜索后才能获得数据，更准确地反应TS搜索能力
+之后还在不同的scheme中比较了不同MLIP，不过我没有详细看这一部分
+## MLIPs and Generative Models in TS search
