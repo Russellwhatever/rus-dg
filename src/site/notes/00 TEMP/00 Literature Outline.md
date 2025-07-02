@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-temp/00-literature-outline/","noteIcon":"","created":"2025-03-25T21:43","updated":"2025-07-01T21:29"}
+{"dg-publish":true,"permalink":"/00-temp/00-literature-outline/","noteIcon":"","created":"2025-03-25T21:43","updated":"2025-07-02T11:11"}
 ---
 
 - [x] 读文献 [completion:: 2025-03-25]  [[05 Zotero Notes/@华南平DaXueHuaXueShiYanDianShipHQuXianCeDingTanTao2007\|05 Zotero Notes/@华南平DaXueHuaXueShiYanDianShipHQuXianCeDingTanTao2007]]  [completion:: 2025-05-18]
@@ -40,3 +40,7 @@
 - [ ] React-OT: double-ended TS generation[[05 Zotero Notes/@duanOptimalTransportGenerating2025\|@duanOptimalTransportGenerating2025]]
 ## 生成模型过程中的工具和方法
 - [ ] GSM[[05 Zotero Notes/@zimmermanGrowingStringMethod2013\|@zimmermanGrowingStringMethod2013]]：growing string method，嵌入几何结构、能量和梯度为MEP
+
+# 理论化学研究
+#People人/蒋鸿 
+- [ ] 第一性原理；both宽能带和窄能带的半导体计算[[05 Zotero Notes/@cuiDoublyScreenedHybrid2018\|@cuiDoublyScreenedHybrid2018]]

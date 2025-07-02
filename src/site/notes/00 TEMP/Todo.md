@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-temp/todo/","noteIcon":"","created":"2025-02-15T23:41","updated":"2025-07-01T20:16"}
+{"dg-publish":true,"permalink":"/00-temp/todo/","noteIcon":"","created":"2025-02-15T23:41","updated":"2025-07-02T10:41"}
 ---
 
 
@@ -27,12 +27,8 @@ levels:
 - 写作博客
 ```
 # Inbox
-- [ ] 升学意向填报-在ehall填报 
-- [x] 测试timeline  [completion:: 2025-07-01]
-- [x] 写规则识别反应类型  [due:: 2025-06-19]  [completion:: 2025-07-01]
 # Daily Tasks
 - [ ] 粉末XRD晶体结构全自动解析比赛
-- [ ] 知乎上的flow matching是什么？和diffusion是什么关系
 - [ ] 看完《现代量子化学导论》
 - [ ] 今天查看一下官网上蒋鸿组的主要工作方向和相关的基础知识及名词[due:: 2025-07-01]
 - [ ] 2507月《真金》命题：对自我的探寻，3000-5000字[due:: 2025-07-25]
