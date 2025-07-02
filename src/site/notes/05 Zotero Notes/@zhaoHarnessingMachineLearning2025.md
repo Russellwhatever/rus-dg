@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-zotero-notes/zhao-harnessing-machine-learning2025/","title":"Harnessing machine learning to enhance transition state search with interatomic potentials and generative models","noteIcon":"","created":"2025-06-13T20:51","updated":"2025-07-01T21:58"}
+{"dg-publish":true,"permalink":"/05-zotero-notes/zhao-harnessing-machine-learning2025/","title":"Harnessing machine learning to enhance transition state search with interatomic potentials and generative models","noteIcon":"","created":"2025-06-13T20:51","updated":"2025-07-02T10:20"}
 ---
 
 **目的**：对不同的生成模型和势函数进行统一评估
@@ -19,4 +19,4 @@
 1. TS-search: ==GSM正确率==和==TS正确率==
 总体来说，有两类评测指标：
 1. Energy and force MAE：最直观的评估标准
-2. success and intended rates：即上提到的GSM正确率和TS正确率；TS RMSD；能垒MAE：在端对端TS搜索后才能获得数据，更准确地反应TS搜索能力
+2. **success and intended rates**：即上提到的GSM正确率和TS正确率；**TS RMSD**；**能垒MAE**：在端对端TS搜索后才能获得数据，更准确地反应TS搜索能力
