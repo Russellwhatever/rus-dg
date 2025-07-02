@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-temp/todo/","noteIcon":"","created":"2025-02-15T23:41","updated":"2025-07-02T10:41"}
+{"dg-publish":true,"permalink":"/00-temp/todo/","noteIcon":"","created":"2025-02-15T23:41","updated":"2025-07-02T14:33"}
 ---
 
 
@@ -35,6 +35,7 @@ levels:
 
 { .block-language-dataview}
 - [ ] 升学志愿填报-在ehall填写升学志愿 [start:: 2025-07-07] [due:: 2025-07-21]
+- [ ] 学习扩散模型的打分网络方法 [due::2025-07-02] 
 
 
 # 科研与学习任务
