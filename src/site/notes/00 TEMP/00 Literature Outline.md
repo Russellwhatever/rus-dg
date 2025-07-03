@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-temp/00-literature-outline/","noteIcon":"","created":"2025-03-25T21:43","updated":"2025-07-03T15:26"}
+{"dg-publish":true,"permalink":"/00-temp/00-literature-outline/","noteIcon":"","created":"2025-03-25T21:43","updated":"2025-07-03T19:55"}
 ---
 
 - [x] 读文献 [completion:: 2025-03-25]  [[05 Zotero Notes/@华南平DaXueHuaXueShiYanDianShipHQuXianCeDingTanTao2007\|05 Zotero Notes/@华南平DaXueHuaXueShiYanDianShipHQuXianCeDingTanTao2007]]  [completion:: 2025-05-18]
@@ -32,11 +32,11 @@
 - [x] 周期性晶体的字符串描述及其条件生成（仅依据于生成能）[[05 Zotero Notes/@xiaoInvertibleInvariantCrystal2023\|@xiaoInvertibleInvariantCrystal2023]]  [completion:: 2025-07-01]
 生成模型最重要的还是能够根据性质产生结构。现在的没有一个能够做到的。
 - [x] 查找文献或者博客，了解为什么生图模型可以产生具有指向性的图片，结构模型却没有能这样的--看了文献，但是没有使用classifier-guidance的[[05 Zotero Notes/@zeniGenerativeModelInorganic2025\|05 Zotero Notes/@zeniGenerativeModelInorganic2025]][[05 Zotero Notes/@joshiAllatomDiffusionTransformers2025\|05 Zotero Notes/@joshiAllatomDiffusionTransformers2025]]  [completion:: 2025-06-14]
-- [x] 条件生成模型-图像-看看所谓“E1最好使用加噪后微调的模型”具体怎么操作[[05 Zotero Notes/@liuMoreControlFree2022\|05 Zotero Notes/@liuMoreControlFree2022]][[01 科研学习/A 课题/00 数理知识补全/04 条件生成模型#1.3 此外\|04 条件生成模型]] ✅ 2025-06-27
+- [x] 条件生成模型-图像-看看所谓“E1最好使用加噪后微调的模型”具体怎么操作[[05 Zotero Notes/@liuMoreControlFree2022\|05 Zotero Notes/@liuMoreControlFree2022]][[01 科研学习/A 课题/00 Background Knowledge/04 条件生成模型#1.3 此外\|04 条件生成模型]] ✅ 2025-06-27
 - [ ] 添加一个基于FP方程的正则化和分部积分、混合专家MoE，对MD生成模型基于物理信息进行指导[[05 Zotero Notes/@plainerConsistentSamplingSimulation2025\|@plainerConsistentSamplingSimulation2025]]
 ## 3D结构生成
 因为是后来建立的大纲，只包含了一部分3D结构生成。剩下的在前面的“部分条件生成模型与原理”中
-- [ ] 张浩组-VQ-晶体结构生成[[05 Zotero Notes/@qiuMassiveDiscoveryCrystal2025\|@qiuMassiveDiscoveryCrystal2025]]
+- [ ] 复旦张浩组-VQ-晶体结构生成[[05 Zotero Notes/@qiuMassiveDiscoveryCrystal2025\|@qiuMassiveDiscoveryCrystal2025]]
 - [ ] 非等变网络-小模型[[05 Zotero Notes/@gurevStandardTransformerAttention2025\|@gurevStandardTransformerAttention2025]]
 ## 反应生成
 - [x] 对MLIP和反应生成模型进行统一评估[[05 Zotero Notes/@zhaoHarnessingMachineLearning2025\|@zhaoHarnessingMachineLearning2025]]  [completion:: 2025-07-01]
