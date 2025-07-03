@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-temp/00-literature-outline/","noteIcon":"","created":"2025-03-25T21:43","updated":"2025-07-02T14:45"}
+{"dg-publish":true,"permalink":"/00-temp/00-literature-outline/","noteIcon":"","created":"2025-03-25T21:43","updated":"2025-07-03T13:02"}
 ---
 
 - [x] 读文献 [completion:: 2025-03-25]  [[05 Zotero Notes/@华南平DaXueHuaXueShiYanDianShipHQuXianCeDingTanTao2007\|05 Zotero Notes/@华南平DaXueHuaXueShiYanDianShipHQuXianCeDingTanTao2007]]  [completion:: 2025-05-18]
@@ -24,7 +24,7 @@
 # 条件生成
 ## 反应数据集
 - [x] transition1x[[05 Zotero Notes/@schreinerTransition1xDatasetBuilding2022\|05 Zotero Notes/@schreinerTransition1xDatasetBuilding2022]] ✅ 2025-06-27
-- [ ] KHP反应网络[[05 Zotero Notes/@zhaoAlgorithmicExplorationsUnimolecular2022\|@zhaoAlgorithmicExplorationsUnimolecular2022]]：不是单独的反应，而是一个反应网络。已被广泛使用（这部分可见[[05 Zotero Notes/@zhaoHarnessingMachineLearning2025\|@zhaoHarnessingMachineLearning2025]]'A realistic reaction network:'部分）
+- [ ] KHP反应网络[[05 Zotero Notes/@zhaoAlgorithmicExplorationsUnimolecular2022\|@zhaoAlgorithmicExplorationsUnimolecular2022]]：不是单独的反应，而是一个反应网络。已被广泛使用（这部分可见[[05 Zotero Notes/@zhaoHarnessingMachineLearning2025\|@zhaoHarnessingMachineLearning2025]]的'A realistic reaction network:'部分）
 ## 部分条件生成模型与原理
 - [x] 生成模型原理[[05 Zotero Notes/@songHowTrainYour2021\|05 Zotero Notes/@songHowTrainYour2021]][[05 Zotero Notes/@songDenoisingDiffusionImplicit2022a\|05 Zotero Notes/@songDenoisingDiffusionImplicit2022a]]  [completion:: 2025-06-13]
 - [x] harnessing machine ...总之是一个能够对MLFF和生成模型进行统一评估，建立标准的东西[[05 Zotero Notes/@zhaoHarnessingMachineLearning2025\|05 Zotero Notes/@zhaoHarnessingMachineLearning2025]]  [completion:: 2025-07-01]
