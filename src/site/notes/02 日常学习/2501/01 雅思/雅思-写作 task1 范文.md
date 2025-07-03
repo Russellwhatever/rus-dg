@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02/2501/01/task1/","title":"【IELTS Writing Task 1 sample 範例】6大題型 各一篇高分範文！【2025更新】 - Spencer Lam 英文補習團隊","tags":["{{tags}"],"noteIcon":"","created":"2025-02-08","updated":"2025-07-01T13:38"}
+{"dg-publish":true,"permalink":"/02/2501/01/task1/","title":"【IELTS Writing Task 1 sample 範例】6大題型 各一篇高分範文！【2025更新】 - Spencer Lam 英文補習團隊","tags":["{{tags}"],"noteIcon":"","created":"2025-02-08","updated":"2025-07-02T16:22"}
 ---
 
 # Clipping
