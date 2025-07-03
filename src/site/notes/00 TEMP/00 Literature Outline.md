@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-temp/00-literature-outline/","noteIcon":"","created":"2025-03-25T21:43","updated":"2025-07-03T13:02"}
+{"dg-publish":true,"permalink":"/00-temp/00-literature-outline/","noteIcon":"","created":"2025-03-25T21:43","updated":"2025-07-03T15:26"}
 ---
 
 - [x] 读文献 [completion:: 2025-03-25]  [[05 Zotero Notes/@华南平DaXueHuaXueShiYanDianShipHQuXianCeDingTanTao2007\|05 Zotero Notes/@华南平DaXueHuaXueShiYanDianShipHQuXianCeDingTanTao2007]]  [completion:: 2025-05-18]
@@ -33,14 +33,18 @@
 生成模型最重要的还是能够根据性质产生结构。现在的没有一个能够做到的。
 - [x] 查找文献或者博客，了解为什么生图模型可以产生具有指向性的图片，结构模型却没有能这样的--看了文献，但是没有使用classifier-guidance的[[05 Zotero Notes/@zeniGenerativeModelInorganic2025\|05 Zotero Notes/@zeniGenerativeModelInorganic2025]][[05 Zotero Notes/@joshiAllatomDiffusionTransformers2025\|05 Zotero Notes/@joshiAllatomDiffusionTransformers2025]]  [completion:: 2025-06-14]
 - [x] 条件生成模型-图像-看看所谓“E1最好使用加噪后微调的模型”具体怎么操作[[05 Zotero Notes/@liuMoreControlFree2022\|05 Zotero Notes/@liuMoreControlFree2022]][[01 科研学习/A 课题/00 数理知识补全/04 条件生成模型#1.3 此外\|04 条件生成模型]] ✅ 2025-06-27
-- [ ] 添加一个基于FP方程的正则化和分部积分、混合专家MoE，对生成模型基于物理信息进行指导[[05 Zotero Notes/@plainerConsistentSamplingSimulation2025\|@plainerConsistentSamplingSimulation2025]]
+- [ ] 添加一个基于FP方程的正则化和分部积分、混合专家MoE，对MD生成模型基于物理信息进行指导[[05 Zotero Notes/@plainerConsistentSamplingSimulation2025\|@plainerConsistentSamplingSimulation2025]]
+## 3D结构生成
+因为是后来建立的大纲，只包含了一部分3D结构生成。剩下的在前面的“部分条件生成模型与原理”中
+- [ ] 张浩组-VQ-晶体结构生成[[05 Zotero Notes/@qiuMassiveDiscoveryCrystal2025\|@qiuMassiveDiscoveryCrystal2025]]
+- [ ] 非等变网络-小模型[[05 Zotero Notes/@gurevStandardTransformerAttention2025\|@gurevStandardTransformerAttention2025]]
 ## 反应生成
 - [x] 对MLIP和反应生成模型进行统一评估[[05 Zotero Notes/@zhaoHarnessingMachineLearning2025\|@zhaoHarnessingMachineLearning2025]]  [completion:: 2025-07-01]
 - [ ] TSDiff: 从reactant和products的SMILES、2d graph直接生成TS的3d结构[[05 Zotero Notes/@kimDiffusionbasedGenerativeAI2024\|@kimDiffusionbasedGenerativeAI2024]]
 - [ ] OA-ReactDiff: 从reactant, product和TS的联合分布生成结构相似度[[05 Zotero Notes/@duanAccurateTransitionState2023\|@duanAccurateTransitionState2023]]
 - [ ] React-OT: double-ended TS generation[[05 Zotero Notes/@duanOptimalTransportGenerating2025\|@duanOptimalTransportGenerating2025]]，是OA-ReactDiff的后续工作
 ## 生成模型过程中的工具和方法
-- [ ] GSM[[05 Zotero Notes/@zimmermanGrowingStringMethod2013\|@zimmermanGrowingStringMethod2013]]：growing string method，嵌入几何结构、能量和梯度为MEP
+- [x] GSM[[05 Zotero Notes/@zimmermanGrowingStringMethod2013\|@zimmermanGrowingStringMethod2013]]：growing string method，嵌入几何结构、能量和梯度为MEP  [completion:: 2025-07-03]
 
 # 理论化学研究
 - [ ] 第一性原理；both宽能带和窄能带的半导体计算[[05 Zotero Notes/@cuiDoublyScreenedHybrid2018\|@cuiDoublyScreenedHybrid2018]] #People人/蒋鸿 
