@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-temp/todo/","noteIcon":"","created":"2025-02-15T23:41","updated":"2025-07-02T14:33"}
+{"dg-publish":true,"permalink":"/00-temp/todo/","noteIcon":"","created":"2025-02-15T23:41","updated":"2025-07-03T11:29"}
 ---
 
 
@@ -30,12 +30,10 @@ levels:
 # Daily Tasks
 - [ ] 粉末XRD晶体结构全自动解析比赛
 - [ ] 看完《现代量子化学导论》
-- [ ] 今天查看一下官网上蒋鸿组的主要工作方向和相关的基础知识及名词[due:: 2025-07-01]
 - [ ] 2507月《真金》命题：对自我的探寻，3000-5000字[due:: 2025-07-25]
 
 { .block-language-dataview}
 - [ ] 升学志愿填报-在ehall填写升学志愿 [start:: 2025-07-07] [due:: 2025-07-21]
-- [ ] 学习扩散模型的打分网络方法 [due::2025-07-02] 
 
 
 # 科研与学习任务
