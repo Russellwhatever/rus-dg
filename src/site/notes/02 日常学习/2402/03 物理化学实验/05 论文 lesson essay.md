@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02/2402/03/05-lesson-essay/","noteIcon":"","created":"2025-01-31T00:35","updated":"2025-07-01T13:38"}
+{"dg-publish":true,"permalink":"/02/2402/03/05-lesson-essay/","noteIcon":"","created":"2025-01-31T00:35","updated":"2025-07-03T11:41"}
 ---
 
 # 溶液法测定极性分子的偶极矩

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-zotero-notes/zeni-generative-model-inorganic2025/","title":"A generative model for inorganic materials design","noteIcon":"","created":"2025-04-25T00:06","updated":"2025-07-01T11:57"}
+{"dg-publish":true,"permalink":"/05-zotero-notes/zeni-generative-model-inorganic2025/","title":"A generative model for inorganic materials design","noteIcon":"","created":"2025-04-25T00:06","updated":"2025-07-01T20:56"}
 ---
 
 随便网上一搜通讯作者，居然就能搜到报道：https://www.mittrchina.com/news/detail/14304
