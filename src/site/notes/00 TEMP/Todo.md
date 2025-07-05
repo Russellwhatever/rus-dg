@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-temp/todo/","noteIcon":"","created":"2025-02-15T23:41","updated":"2025-07-03T22:19"}
+{"dg-publish":true,"permalink":"/00-temp/todo/","noteIcon":"","created":"2025-02-15T23:41","updated":"2025-07-04T16:10"}
 ---
 
 
@@ -29,7 +29,6 @@ levels:
 # Inbox
 # Daily Tasks
 - [ ] 粉末XRD晶体结构全自动解析比赛
-- [ ] 看完《现代量子化学导论》
 - [ ] 2507月《真金》命题：对自我的探寻，3000-5000字[due:: 2025-07-25]
 
 { .block-language-dataview}
@@ -38,14 +37,9 @@ levels:
 
 # 每周读五篇文献
 - [-] MEGNet 后续-M3GNet[[
-- [ ] KHP反应网络[[05 Zotero Notes/@zhaoAlgorithmicExplorationsUnimolecular2022\|@zhaoAlgorithmicExplorationsUnimolecular2022]]：不是单独的反应，而是一个反应网络。已被广泛使用（这部分可见[[05 Zotero Notes/@zhaoHarnessingMachineLearning2025\|@zhaoHarnessingMachineLearning2025]]的'A realistic reaction network:'部分）
-- [ ] RGB1-xTB[[05 Zotero Notes/@zhaoComprehensiveExplorationGraphically2023\|@zhaoComprehensiveExplorationGraphically2023]]：反应多样性和参加反应的原子更多；反应数量也更多（下图来自React-OT[[05 Zotero Notes/@duanOptimalTransportGenerating2025\|@duanOptimalTransportGenerating2025]]） ![99 Attachment/Pasted image 20250704153958.png](/img/user/99%20Attachment/Pasted%20image%2020250704153958.png)
 - [ ] 添加一个基于FP方程的正则化和分部积分、混合专家MoE，对MD生成模型基于物理信息进行指导[[05 Zotero Notes/@plainerConsistentSamplingSimulation2025\|@plainerConsistentSamplingSimulation2025]]
 - [ ] 复旦张浩组-VQ-晶体结构生成[[05 Zotero Notes/@qiuMassiveDiscoveryCrystal2025\|@qiuMassiveDiscoveryCrystal2025]]
 - [ ] 非等变网络-小模型[[05 Zotero Notes/@gurevStandardTransformerAttention2025\|@gurevStandardTransformerAttention2025]]
-- [ ] TSDiff: 从reactant和products的SMILES、2d graph直接生成TS的3d结构[[05 Zotero Notes/@kimDiffusionbasedGenerativeAI2024\|@kimDiffusionbasedGenerativeAI2024]]
-- [ ] React-OT: double-ended TS generation[[05 Zotero Notes/@duanOptimalTransportGenerating2025\|@duanOptimalTransportGenerating2025]]，是OA-ReactDiff的后续工作
-- [ ] 第一性原理；both宽能带和窄能带的半导体计算[[05 Zotero Notes/@cuiDoublyScreenedHybrid2018\|@cuiDoublyScreenedHybrid2018]] #People人/蒋鸿
 - [x] 读文献 [completion:: 2025-03-25]  [[05 Zotero Notes/@华南平DaXueHuaXueShiYanDianShipHQuXianCeDingTanTao2007\|05 Zotero Notes/@华南平DaXueHuaXueShiYanDianShipHQuXianCeDingTanTao2007]]  [completion:: 2025-05-18]
 - [x] 谢忻恬 AtomFT [[05 Zotero Notes/@xieFinetunedGlobalNeural2025\|05 Zotero Notes/@xieFinetunedGlobalNeural2025]]  [completion:: 2025-03-26]
 - [x] Science-深度学习优化 TEM 扫描分辨率 [[05 Zotero Notes/@crozierVisualizingNanoparticleSurface2025\|05 Zotero Notes/@crozierVisualizingNanoparticleSurface2025]]  [completion:: 2025-03-26]
@@ -64,6 +58,8 @@ levels:
 - [x] 介绍各种EBM生成模型的推导[[05 Zotero Notes/@songHowTrainYour2021\|05 Zotero Notes/@songHowTrainYour2021]] ✅ 2025-05-31
 - [x] 杨正新师兄的HPNN，亮点在使用==标量相乘代替张量积==，节省计算资源。对应博士答辩的第三个工作[[05 Zotero Notes/@yangHighorderPairreducedNeural\|05 Zotero Notes/@yangHighorderPairreducedNeural]]  [completion:: 2025-05-31] 
 - [x] transition1x[[05 Zotero Notes/@schreinerTransition1xDatasetBuilding2022\|05 Zotero Notes/@schreinerTransition1xDatasetBuilding2022]] ✅ 2025-06-27
+- [x] KHP反应网络[[05 Zotero Notes/@zhaoAlgorithmicExplorationsUnimolecular2022\|@zhaoAlgorithmicExplorationsUnimolecular2022]]：不是单独的反应，而是一个反应网络。已被广泛使用（这部分可见[[05 Zotero Notes/@zhaoHarnessingMachineLearning2025\|@zhaoHarnessingMachineLearning2025]]的'A realistic reaction network:'部分） ✅ 2025-07-04
+- [x] RGB1-xTB[[05 Zotero Notes/@zhaoComprehensiveExplorationGraphically2023\|@zhaoComprehensiveExplorationGraphically2023]]：反应多样性和参加反应的原子更多；反应数量也更多（下图来自React-OT[[05 Zotero Notes/@duanOptimalTransportGenerating2025\|@duanOptimalTransportGenerating2025]]） ![99 Attachment/Pasted image 20250704153958.png](/img/user/99%20Attachment/Pasted%20image%2020250704153958.png) ✅ 2025-07-04
 - [x] 生成模型原理[[05 Zotero Notes/@songHowTrainYour2021\|05 Zotero Notes/@songHowTrainYour2021]][[05 Zotero Notes/@songDenoisingDiffusionImplicit2022a\|05 Zotero Notes/@songDenoisingDiffusionImplicit2022a]]  [completion:: 2025-06-13]
 - [x] harnessing machine ...总之是一个能够对MLFF和生成模型进行统一评估，建立标准的东西[[05 Zotero Notes/@zhaoHarnessingMachineLearning2025\|05 Zotero Notes/@zhaoHarnessingMachineLearning2025]]  [completion:: 2025-07-01]
 - [x] 另一个生成模型[[05 Zotero Notes/@joshiAllatomDiffusionTransformers2025\|05 Zotero Notes/@joshiAllatomDiffusionTransformers2025]] ✅ 2025-06-13
@@ -71,8 +67,11 @@ levels:
 - [x] 查找文献或者博客，了解为什么生图模型可以产生具有指向性的图片，结构模型却没有能这样的--看了文献，但是没有使用classifier-guidance的[[05 Zotero Notes/@zeniGenerativeModelInorganic2025\|05 Zotero Notes/@zeniGenerativeModelInorganic2025]][[05 Zotero Notes/@joshiAllatomDiffusionTransformers2025\|05 Zotero Notes/@joshiAllatomDiffusionTransformers2025]]  [completion:: 2025-06-14]
 - [x] 条件生成模型-图像-看看所谓“E1最好使用加噪后微调的模型”具体怎么操作[[05 Zotero Notes/@liuMoreControlFree2022\|05 Zotero Notes/@liuMoreControlFree2022]][[01 科研学习/A 课题/00 Background Knowledge/04 条件生成模型#1.3 此外\|04 条件生成模型]] ✅ 2025-06-27
 - [x] 对MLIP和反应生成模型进行统一评估[[05 Zotero Notes/@zhaoHarnessingMachineLearning2025\|@zhaoHarnessingMachineLearning2025]]  [completion:: 2025-07-01]
+- [x] TSDiff: 从reactant和products的SMILES、2d graph直接生成TS的3d结构[[05 Zotero Notes/@kimDiffusionbasedGenerativeAI2024\|@kimDiffusionbasedGenerativeAI2024]]  [completion:: 2025-07-05]
 - [x] OA-ReactDiff: 从reactant, product和TS的联合分布生成结构相似度[[05 Zotero Notes/@duanAccurateTransitionState2023\|@duanAccurateTransitionState2023]]  [completion:: 2025-07-04]
+- [x] React-OT: double-ended TS generation[[05 Zotero Notes/@duanOptimalTransportGenerating2025\|@duanOptimalTransportGenerating2025]]，是OA-ReactDiff的后续工作  [completion:: 2025-07-04]
 - [x] GSM[[05 Zotero Notes/@zimmermanGrowingStringMethod2013\|@zimmermanGrowingStringMethod2013]]：growing string method，嵌入几何结构、能量和梯度为MEP  [completion:: 2025-07-03]
+- [x] 第一性原理；both宽能带和窄能带的半导体计算[[05 Zotero Notes/@cuiDoublyScreenedHybrid2018\|@cuiDoublyScreenedHybrid2018]] #People人/蒋鸿  [completion:: 2025-07-04]
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02/2402/03/chemical-oscillation/","noteIcon":"","created":"2025-01-31T00:35","updated":"2025-07-01T13:38"}
+{"dg-publish":true,"permalink":"/02/2402/03/chemical-oscillation/","noteIcon":"","created":"2025-01-31T00:35","updated":"2025-07-04T16:08"}
 ---
 
 # 1. Objects
